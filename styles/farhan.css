@@ -4,5 +4,10 @@ p {
   background: yellow;
 }
 img {
-  border: 3px dotted skyblue;
+  border: 3px solid skyblue;
+  box-shadow: 2px 2px 8px skyblue;
+  border-radius: 6.5px;
+  padding: 5px;
+  margin: 20px;
+  margin-top: 10px;
 }
